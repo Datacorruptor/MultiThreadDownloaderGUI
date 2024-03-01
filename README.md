@@ -7,12 +7,12 @@ The proposed app aims to provide a superior user experience by leveraging modern
 # Installation
 
 ## windows
-1.Clone repository
-2.Run start.bat
+1. Clone repository
+2. Run start.bat
 
 ## other
-1.Clone repository
-2.Run "python3 main.py"
+1. Clone repository
+2. Run "python3 main.py"
 
 # How to use
 insert direct link to a file in the bottom text field and click the "GO" button at the bottom.
